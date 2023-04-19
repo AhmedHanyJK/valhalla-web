@@ -1,0 +1,45 @@
+body{
+  background-image: url(back.png);
+  background-size: 1000px;
+}
+
+.head-1{ /* valhalla laws */
+  text-align: center; 
+  font-size: 50px;
+  font-family: sans-serif;
+  color:#6C663E;
+}
+.head-2{ /* valhalla bank */
+  text-align: center; 
+  font-size: 47px;
+  font-family: sans-serif; 
+  color:#6C663E;
+}
+ .main-div{ /* div of valhalla laws*/
+   background-color: skyblue; 
+   text-align: center;  
+   max-height: 240px;
+   overflow: scroll;
+   border-radius: 5%; 
+   border: solid black 3px;
+   opacity: 70%;
+   padding:0px 3px;
+ }  
+ 
+ .main-div-2{ /*div of valhalla bank*/
+   background-color: skyblue;
+   text-align: center; 
+   max-height:240px;
+   overflow: scroll;
+   border-radius: 5%;
+   border: solid black 3px;  
+   opacity: 70%;
+   padding: 0px 3px
+ } 
+ 
+ .a{ /*Link of groub el a3lanat*/
+   text-align:center;
+   margin-left: 35%; 
+   font-size: 20px;
+   color: black;
+ }
